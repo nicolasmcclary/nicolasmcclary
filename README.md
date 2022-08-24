@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **nicolasmcclary/nicolasmcclary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Olá, meu nome é Nícolas Gabriel...
+Sou formado em Admnistração e professor de Muaythai, Boxe e Kickboxing.
+Estou estudando Data Science
