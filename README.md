@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Olá, meu nome é Nícolas Gabriel...
-Sou formado em Admnistração e professor de Muaythai, Boxe e Kickboxing.
-Estou estudando Data Science
+Olá, meu nome é Nícolas Gabriel..
+Formado em Admnistração,
+Professor de Muaythai, Boxe e Kickboxing,
+Estudante de Data Science.
